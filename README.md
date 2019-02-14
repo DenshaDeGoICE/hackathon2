@@ -23,3 +23,7 @@ Use these following steps to create a Pull Request (other ways work too):
 
 ## Thank you
 Thank you again for your participation in the second Vulidity hackathon.
+
+## Files
+
+- memo_hackathon2_jw.md
